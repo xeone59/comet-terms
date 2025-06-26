@@ -1,4 +1,4 @@
-**Comet - Terms of Service**
+# Comet - Terms of Use
 
 **Last Updated: March 19, 2025**
 
@@ -35,7 +35,7 @@ We are not responsible for any damages arising from your use of Comet, including
 We may update these Terms periodically. Continued use of Comet after changes are made constitutes your acceptance of the revised Terms.
 
 ### **9. Contact Information**
-If you have any questions about these Terms, please contact us at cometapp.help@gmail.com.
+If you have any questions about these Terms, please contact us at [cometapp.help@gmail.com](mailto:cometapp.help@gmail.com).
 
 ---
 
